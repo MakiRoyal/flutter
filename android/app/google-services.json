@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "341519975028",
+    "project_id": "gamevault-5bebf",
+    "storage_bucket": "gamevault-5bebf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341519975028:android:5d2139a5bbc558ae730721",
+        "android_client_info": {
+          "package_name": "com.example.projectflutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvNIxLnbTNw4uadl-5DlYYwMy_LOGG99U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
