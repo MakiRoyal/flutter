@@ -443,25 +443,6 @@ class _CheckoutPageState extends State<CheckoutPage> {
                       ),
                     ],
                   ),
-                  const SizedBox(height: 16),
-                  Card(
-                    color: Colors.blue[50],
-                    child: const Padding(
-                      padding: EdgeInsets.all(16),
-                      child: Row(
-                        children: [
-                          Icon(Icons.info_outline, color: Colors.blue),
-                          SizedBox(width: 16),
-                          Expanded(
-                            child: Text(
-                              'Paiement simulé (mode démo) - Aucune carte ne sera débitée',
-                              style: TextStyle(fontWeight: FontWeight.w500),
-                            ),
-                          ),
-                        ],
-                      ),
-                    ),
-                  ),
                   const SizedBox(height: 24),
                   SizedBox(
                     width: double.infinity,
